@@ -1,0 +1,17 @@
+/Users/joaootaviodefariasdeoliveira/Dev/Estacionamento/Estacionamento.Console/bin/Debug/net6.0/Estacionamento.Console
+/Users/joaootaviodefariasdeoliveira/Dev/Estacionamento/Estacionamento.Console/bin/Debug/net6.0/Estacionamento.Console.deps.json
+/Users/joaootaviodefariasdeoliveira/Dev/Estacionamento/Estacionamento.Console/bin/Debug/net6.0/Estacionamento.Console.runtimeconfig.json
+/Users/joaootaviodefariasdeoliveira/Dev/Estacionamento/Estacionamento.Console/bin/Debug/net6.0/Estacionamento.Console.dll
+/Users/joaootaviodefariasdeoliveira/Dev/Estacionamento/Estacionamento.Console/bin/Debug/net6.0/Estacionamento.Console.pdb
+/Users/joaootaviodefariasdeoliveira/Dev/Estacionamento/Estacionamento.Console/obj/Debug/net6.0/Estacionamento.Console.csproj.AssemblyReference.cache
+/Users/joaootaviodefariasdeoliveira/Dev/Estacionamento/Estacionamento.Console/obj/Debug/net6.0/Estacionamento.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaootaviodefariasdeoliveira/Dev/Estacionamento/Estacionamento.Console/obj/Debug/net6.0/Estacionamento.Console.AssemblyInfoInputs.cache
+/Users/joaootaviodefariasdeoliveira/Dev/Estacionamento/Estacionamento.Console/obj/Debug/net6.0/Estacionamento.Console.AssemblyInfo.cs
+/Users/joaootaviodefariasdeoliveira/Dev/Estacionamento/Estacionamento.Console/obj/Debug/net6.0/Estacionamento.Console.csproj.CoreCompileInputs.cache
+/Users/joaootaviodefariasdeoliveira/Dev/Estacionamento/Estacionamento.Console/obj/Debug/net6.0/Estacionamento.Console.dll
+/Users/joaootaviodefariasdeoliveira/Dev/Estacionamento/Estacionamento.Console/obj/Debug/net6.0/refint/Estacionamento.Console.dll
+/Users/joaootaviodefariasdeoliveira/Dev/Estacionamento/Estacionamento.Console/obj/Debug/net6.0/Estacionamento.Console.pdb
+/Users/joaootaviodefariasdeoliveira/Dev/Estacionamento/Estacionamento.Console/obj/Debug/net6.0/Estacionamento.Console.genruntimeconfig.cache
+/Users/joaootaviodefariasdeoliveira/Dev/Estacionamento/Estacionamento.Console/obj/Debug/net6.0/ref/Estacionamento.Console.dll
+/Users/joaootaviodefariasdeoliveira/Dev/Estacionamento/Estacionamento.Console/bin/Debug/net6.0/CommandLine.dll
+/Users/joaootaviodefariasdeoliveira/Dev/Estacionamento/Estacionamento.Console/obj/Debug/net6.0/Estacionamento.Console.csproj.CopyComplete
